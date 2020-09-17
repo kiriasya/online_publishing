@@ -1,0 +1,88 @@
+
+.text-style{
+  padding-left: 30px;
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+  font-size: 1.25rem;
+  color:black;
+}
+.text-style_3{
+  padding-left: 30px;
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+  font-size: 1.25rem;
+  color:white;
+}
+.text-exit{
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+  font-size: 1.5rem;
+  color:black;
+  text-align: right;
+}
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+  }
+.form-control_2 {
+    display: block;
+    width:380px;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.btn-primary_2 {
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+}
+.search {
+  display: block;
+  width:300px;
+  height: calc(1.5em + .75rem + 2px);
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: .25rem;
+  transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.text-style_2{
+  padding-left: 40px;
+}
+  .logo {
+      font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+      font-size: 2.25rem;
+  }
+
+   th {
+     font-weight: normal;
+     color: #039;
+     padding: 10px 15px;
+   }
+   td {
+     color: #669;
+     border-top: 1px solid #e8edff;
+     padding: 10px 15px;
+   }
+   tr:hover td {background: #e8edff;}
+tr:nth-child(2n) {background: #e8edff;}
+.back{
+background-color: #28fa94;
+}
+table {
+background: url("https://html5book.ru/wp-content/uploads/2019/04/suggestions.png") 98% 86% no-repeat;
+}
+
